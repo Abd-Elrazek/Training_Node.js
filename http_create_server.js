@@ -1,15 +1,12 @@
+exports.seTFirstName = function(a){
+	return a;
+};
 
-exports.myname = "Ahmed";
+exports.seTSecondName = function(b){
+	return b;
+};
 
-exports.seTFirstName = function(){
-	
-}
-
-exports.seTSecondName = function(){
-	
-}
-
-exports.seTThirdName = function(){
-	
-}
+exports.seTThirdName = function(c){
+	return c;
+};
 
