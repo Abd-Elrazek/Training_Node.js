@@ -7,3 +7,5 @@ http.createServer(function (req, res) {
     res.end();
 }).listen(8080);
 console.log("listen 127.1.1:8080");
+console.log(__dirname);
+console.log(__filename);
